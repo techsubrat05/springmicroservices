@@ -7,6 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PrivateServiceApplication {
 
 	public static void main(String[] args) {
+		/*
+		 * git stage
+		 */
 		SpringApplication.run(PrivateServiceApplication.class, args);
 	}
 
